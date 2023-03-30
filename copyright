@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: dartos-wallpapers
 Source: https://gitlab.com/dart-os/packages/dartos-wallpapers.git
-dartos-wallpapers [Dart OS wallpapers] <https://dart-os.gitlab.com/packages/dartos-wallpapers/>
+dartos-wallpapers [Dart OS wallpapers] <https://dart-os.gitlab.io/packages/dartos-wallpapers/>
 
 Copyright (C) 2023  Arijit Bhowmick <https://sys41x4.github.io>
 License: GPL-3.0+
